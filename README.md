@@ -1,9 +1,8 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Husnain Gilani
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Web Artisian (Developer/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
-
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. I build software solutions that makes life easier. All my coding projects are build from the ground up. One-step at a time. I try to give them a unique touch that makes the user go 🤩/👌/😎. Same for the content, From animation to scripting to voice overs, I give it MY touch. I publish all my content on "[squirrelproductions][youtube]" for the entire world to experience.
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -53,17 +52,17 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+
+<!--![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox) -->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 <!--
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+ <summary><h3>👨‍💻 Husnains's Coding Journey</h3></summary>
+   I had a burning desire for bringing things into life. Make them visually appealing and lively. So I learnt to code all by myself! It fascinated me. I mean just imagine going from absolutely nothing(literally) to something so amazing. Just by imagination and pressing a bunch of plastic. It activated by mind, brought peace and joy to me. I also had another desire making youtube videos, but not just any youtube videos but ones that reflect my thoughts in the purest of their forms!
 -->
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+[website]: https://analyticscamp.org
+[youtube]: https://youtube.com/husnaingilani0
